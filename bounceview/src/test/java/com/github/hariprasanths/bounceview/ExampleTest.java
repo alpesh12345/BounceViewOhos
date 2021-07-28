@@ -1,0 +1,9 @@
+package com.github.hariprasanths.bounceview;
+
+import org.junit.Test;
+
+public class ExampleTest {
+    @Test
+    public void onStart() {
+    }
+}
